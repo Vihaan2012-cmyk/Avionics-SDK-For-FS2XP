@@ -1,0 +1,7 @@
+﻿node_modules/
+dist/
+*.log
+tools/cycle.sh
+tools/build-lib.sh
+tools/rename-lib.mjs
+tools/make-names.mjs
